@@ -1,0 +1,9 @@
+C:\Users\jade.kneen\Desktop\Santa_List\Brads_Santa\Brads_Santa\obj\Debug\Brads_Santa.csprojAssemblyReference.cache
+C:\Users\jade.kneen\Desktop\Santa_List\Brads_Santa\Brads_Santa\obj\Debug\Brads_Santa.Properties.Resources.resources
+C:\Users\jade.kneen\Desktop\Santa_List\Brads_Santa\Brads_Santa\obj\Debug\Brads_Santa.csproj.GenerateResource.cache
+C:\Users\jade.kneen\Desktop\Santa_List\Brads_Santa\Brads_Santa\bin\Debug\Brads_Santa.exe.config
+C:\Users\jade.kneen\Desktop\Santa_List\Brads_Santa\Brads_Santa\bin\Debug\Brads_Santa.exe
+C:\Users\jade.kneen\Desktop\Santa_List\Brads_Santa\Brads_Santa\bin\Debug\Brads_Santa.pdb
+C:\Users\jade.kneen\Desktop\Santa_List\Brads_Santa\Brads_Santa\obj\Debug\Brads_Santa.exe
+C:\Users\jade.kneen\Desktop\Santa_List\Brads_Santa\Brads_Santa\obj\Debug\Brads_Santa.pdb
+C:\Users\jade.kneen\Desktop\Santa_List\Brads_Santa\Brads_Santa\obj\Debug\Brads_Santa.Form1.resources
